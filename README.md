@@ -1,2 +1,2 @@
 # rodney-bryant.github.io
-My GitHub page
+Hey! I’m Rodney. I love building things, breaking things (on purpose), fixing them better, and helping teams grow. I’ve worked in IT for 25+ years across hardware, software, cloud, and security. These days I spend most of my time architecting systems, leading dev teams, and exploring new ideas. This space is a collection of projects I’m tinkering with and tools I find useful.
